@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T16:23:51 IST" name="Default suite" finished-at="2023-05-22T16:23:55 IST" duration-ms="3804">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T16:23:51 IST" name="Default test" finished-at="2023-05-22T16:23:55 IST" duration-ms="3804">
+      <class name="com.actions.Actions_demo">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:com.actions.Actions_demo@5fd4f8f5]" started-at="2023-05-22T16:23:51 IST" name="launch_browser" finished-at="2023-05-22T16:23:54 IST" duration-ms="3220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="qafox()[pri:0, instance:com.actions.Actions_demo@5fd4f8f5]" started-at="2023-05-22T16:23:54 IST" name="qafox" finished-at="2023-05-22T16:23:55 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qafox -->
+      </class> <!-- com.actions.Actions_demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
